@@ -5,6 +5,7 @@
 
 LISA is an upcoming open-source simulation platform designed to model the transmission of infectious diseases across connected populations.
 This project is currently in early development.
+
 ---
 ## 🔬 Overview
 
@@ -14,6 +15,7 @@ Topology — how individuals are connected
 Model — disease dynamics and transitions
 Control — how the simulation runs
 Interventions — vaccines, drugs, policies
+
 ---
 ## ⚙️ Key Concepts
 ### 🧩 Individuals as Nodes
@@ -64,22 +66,24 @@ LISA is built on three principles:
 - Extensibility — designed for long-term growth
 ---
 ## 🚀 Roadmap (Early)
-[ ] Core simulation engine
-[ ] `.lisa` file parser
-[ ] CLI implementation
-[ ] Basic network-based model
-[ ] Output and analysis tools
+
+- [ ] Core simulation engine
+- [ ] `.lisa` file parser
+- [ ] CLI implementation
+- [ ] Basic network-based model
+- [ ] Output and analysis tools
+
 ---
 ## 🤝 Contributing
-
 This project is not yet ready for contributions, but collaboration will be welcome in future releases.
+
 ---
 ## 📌 Vision
-
 To build a powerful and accessible platform for simulating infectious disease dynamics in real-world, connected populations.
+
 ---
 ## ⭐ Stay Updated
-
 If this project interests you, consider starring ⭐ the repository to follow its development.
+
 ---
 LISA — Linked Individual Simulation for Epidemiology
