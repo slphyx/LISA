@@ -2,10 +2,12 @@
 > *A flexible engine for topology-driven epidemic modeling*
 ---
 ## 🚧 Status: Coming Soon
+
 LISA is an upcoming open-source simulation platform designed to model the transmission of infectious diseases across connected populations.
 This project is currently in early development.
 ---
 ## 🔬 Overview
+
 LISA is built to simulate how infectious diseases spread through networks of individuals, where each person interacts with others based on defined contact structures.
 Inspired by the modular design of tools like GROMACS, LISA separates simulation components into clear layers:
 Topology — how individuals are connected
@@ -55,10 +57,11 @@ lisa analyze --project my_study
 - Be easy to use, even from the command line
 ---
 ## 🧠 Design Philosophy
+
 LISA is built on three principles:
-Clarity — simple, readable configuration files
-Flexibility — adaptable to different diseases and populations
-Extensibility — designed for long-term growth
+- Clarity — simple, readable configuration files
+- Flexibility — adaptable to different diseases and populations
+- Extensibility — designed for long-term growth
 ---
 ## 🚀 Roadmap (Early)
 [ ] Core simulation engine
@@ -68,12 +71,15 @@ Extensibility — designed for long-term growth
 [ ] Output and analysis tools
 ---
 ## 🤝 Contributing
+
 This project is not yet ready for contributions, but collaboration will be welcome in future releases.
 ---
 ## 📌 Vision
+
 To build a powerful and accessible platform for simulating infectious disease dynamics in real-world, connected populations.
 ---
 ## ⭐ Stay Updated
+
 If this project interests you, consider starring ⭐ the repository to follow its development.
 ---
 LISA — Linked Individual Simulation for Epidemiology
